@@ -1,6 +1,6 @@
 # Day 2: Basic To-Do List Application
 
-A simple, interactive To-Do List application built for the Day 2 coding challenge. This project demonstrates basic input handling, list manipulation, and program flow.
+A simple, interactive To-Do List application . This project demonstrates basic input handling, list manipulation, and program flow.
 
 ## 🌟 Features
 * **Add Tasks:** Users can input new tasks which are stored in a dynamic list.
